@@ -1,1 +1,1 @@
-this is a feature1 function
+this is a feature1 function, adding another text to see if it appers in my diff commandn
